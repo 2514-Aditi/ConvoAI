@@ -45,5 +45,7 @@ cd analysis
 python main.py
 ```
 
+---
+
 ## Output
 - output/report.md : Contains generated insights and recommendations
