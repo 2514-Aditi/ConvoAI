@@ -31,9 +31,9 @@ Key steps:
 
 ## Project Structure
 
-- `analysis/` → core logic and insight generation  
-- `data/` → input JSON files  
-- `output/` → generated report (`report.md`)  
+- `analysis/` : core logic and insight generation  
+- `data/` : input JSON files  
+- `output/` : generated report (`report.md`)  
 
 ---
 
@@ -43,3 +43,7 @@ Key steps:
 pip install -r requirements.txt
 cd analysis
 python main.py
+```
+
+## Output
+- output/report.md : Contains generated insights and recommendations
